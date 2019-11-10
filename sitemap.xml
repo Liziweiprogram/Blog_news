@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://liziweiprogram.github.io/Blog_news/</loc>
-     <lastmod>2019-11-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://liziweiprogram.github.io/Blog_news/2019y10m/</loc>
-     <lastmod>2019-11-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://liziweiprogram.github.io/Blog_news/2019y11m/</loc>
-     <lastmod>2019-11-09</lastmod>
+     <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://liziweiprogram.github.io/Blog_news/about/</loc>
-     <lastmod>2019-11-09</lastmod>
+     <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://liziweiprogram.github.io/Blog_news/QA/</loc>
-     <lastmod>2019-11-09</lastmod>
+     <lastmod>2019-11-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://liziweiprogram.github.io/Blog_news/2019y10m/</loc>
+     <lastmod>2019-11-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://liziweiprogram.github.io/Blog_news/2019y11m/</loc>
+     <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://liziweiprogram.github.io/Blog_news/Timeline/</loc>
-     <lastmod>2019-11-09</lastmod>
+     <lastmod>2019-11-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://liziweiprogram.github.io/Blog_news/Target/</loc>
+     <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
